@@ -1,6 +1,6 @@
 # Compiled class file
 *.class
-
+*.classpath
 # Log file
 *.log
 
@@ -23,3 +23,7 @@ hs_err_pid*
 
 #bin
 bin/
+
+#eclipse
+.project
+.settings/
