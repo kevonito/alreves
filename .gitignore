@@ -27,3 +27,6 @@ bin/
 #eclipse
 .project
 .settings/
+
+#SO
+.DS_Store
